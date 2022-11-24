@@ -1,0 +1,39 @@
+@import "../root.css";
+
+.button {
+  background-color: var(--button-background);
+
+  border-radius: 0.6rem;
+  border-color: var(--foreground);
+  border-inline-color: var(--foreground);
+  border-style: solid;
+
+  color: var(--foreground);
+
+  margin-top: 10px;
+
+  height: 40px;
+  width: 50%;
+}
+
+.center {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,  0%);
+}
+
+.link {
+  text-decoration: none;
+  color: var(--foreground);
+}
+
+.icon {
+  fill: var(--foreground);
+
+  float: left;
+
+  margin-left: 10%;
+
+  width: 20px;
+  height: 20px;
+}

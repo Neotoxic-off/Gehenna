@@ -1,5 +1,9 @@
+@import "root.css";
+
 .container {
   display: grid;
+
+  background-color: var(--background);
 
   margin: 10px;
 }
@@ -7,5 +11,5 @@
 .item {
   border-radius: 0.6rem;
 
-  background-color: red;
+  margin-top: 10px;
 }

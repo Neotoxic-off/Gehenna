@@ -1,0 +1,23 @@
+@import "../root.css";
+
+.field {
+  background-color: transparent;
+  
+  border-color: var(--foreground);
+  border-radius: 0.6rem;
+  border-style: solid;
+  
+  height: 20px;
+
+  padding: 10px;
+
+  font-size: 20px;
+
+  width: 30%;
+
+  color: var(--foreground);
+}
+
+.field:focus {
+  outline: none;
+}

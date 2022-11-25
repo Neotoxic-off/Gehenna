@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+
+  margin: 10px;
+}
+
+.item {
+  border-radius: 0.6rem;
+
+  background-color: red;
+}

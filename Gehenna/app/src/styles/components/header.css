@@ -9,22 +9,20 @@
   height: 150px;
   width: 150px;
 
-  margin-top: 10%;
-  margin-bottom: 50px;
-
+/* 
   animation-name: animate;
   animation-iteration-count: infinite;
   animation-duration: 1.5s;
-  animation-direction: alternate;
+  animation-direction: alternate; */
 }
 
-@keyframes animate {
+/* @keyframes animate {
   from {
     transform: translateY(0px);
   }
   to {
     transform: translateY(20px);
   }
-}
+} */
 
 

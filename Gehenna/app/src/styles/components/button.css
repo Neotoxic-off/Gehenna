@@ -10,30 +10,13 @@
 
   color: var(--foreground);
 
-  margin-top: 10px;
-
   height: 40px;
-  width: 50%;
+  width: 20%;
 }
 
-.center {
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%,  0%);
-}
+.button:hover {
+  border-color: white;
 
-.link {
-  text-decoration: none;
-  color: var(--foreground);
-}
-
-.icon {
-  fill: var(--foreground);
-
-  float: left;
-
-  margin-left: 10%;
-
-  width: 20px;
-  height: 20px;
+  color: white;
+  cursor: pointer;
 }

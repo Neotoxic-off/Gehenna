@@ -1,0 +1,11 @@
+@import "Root.css";
+
+.panel {
+  border-width: 1px;
+  border-style: solid;
+  border-color: var(--border);
+  border-radius: var(--radius);
+
+  margin: var(--margin);
+  padding: var(--margin);
+}

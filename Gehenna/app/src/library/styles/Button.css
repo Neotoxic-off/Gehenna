@@ -1,0 +1,35 @@
+@import "Root.css";
+@import "Font.css";
+@import "Align.css";
+
+.button {
+  font-family: Roboto;
+
+  border-color: var(--purple);
+  border-radius: var(--radius);
+  border-style: solid;
+  border-width: 1px;
+
+  color: var(--foreground);
+  cursor: pointer;
+
+  margin-top: var(--separator);
+
+  padding: 0.4rem 1.4rem;
+
+  text-decoration: none;
+}
+
+.contained {
+  background-color: var(--purple);
+  
+  border-style: solid;
+}
+
+.filled {
+  background-color: transparent;
+}
+
+.margin-left {
+  margin-left: var(--margin);
+}

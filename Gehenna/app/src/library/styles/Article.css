@@ -1,0 +1,44 @@
+@import "Root.css";
+@import "Font.css";
+@import "Align.css";
+
+.article {
+  font-family: Roboto;
+
+  margin: var(--margin);
+}
+
+.title {
+  font-family: Nexa;
+  font-size: 3.15rem;
+  font-weight: bold;
+
+  color: var(--foreground);
+}
+
+.description {
+  font-size: 1rem;
+  font-style: italic;
+
+  color: var(--description);
+
+  margin-bottom: var(--margin);
+}
+
+.body {
+  color: var(--foreground);
+  
+  font-size: 1rem;
+  
+  margin-bottom: var(--margin);
+}
+
+.footer {
+  font-size: 1rem;
+  
+  color: var(--foreground);
+}
+
+.body-align {
+  white-space: pre-line;
+}

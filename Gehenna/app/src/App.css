@@ -1,11 +1,5 @@
-@font-face {
-  font-family: UniFont;
-  src: url("./assets/fonts/prontano/PontanoSans-Regular.ttf");
-}
-
 html {
-  font-family: UniFont;
-  background-color: #1C1F26;
+  background-color: black;
   text-align: center;
 }
 
@@ -16,6 +10,5 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: Consolas;
 }

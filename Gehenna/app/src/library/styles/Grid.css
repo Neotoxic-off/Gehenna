@@ -1,0 +1,21 @@
+@import "Root.css";
+
+.grid {
+  background-color: var(--background);
+
+  margin: var(--margin);
+}
+
+.column {
+  display: grid;
+}
+
+.line {
+  display: inline-grid;
+}
+
+.item {
+  border-radius: var(--radius);
+
+  margin-top: var(--margin);
+}

@@ -1,0 +1,34 @@
+@font-face {
+  font-family: Roboto;
+  src: url("../fonts/Roboto/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: Altona;
+  src: url("../fonts/AltonaSans/AltonaSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: Antipasto;
+  src: url("../fonts/Antipasto/Antipasto-Pro-Regular-trial.ttf");
+}
+
+@font-face {
+  font-family: Asgalt;
+  src: url("../fonts/Asgalt/Asgalt-Regular.ttf");
+}
+
+@font-face {
+  font-family: CaviarDreams;
+  src: url("../fonts/Caviardreams/CaviarDreams.ttf");
+}
+
+@font-face {
+  font-family: Chocolada;
+  src: url("../fonts/Chocolada/Chocolada.ttf");
+}
+
+@font-face {
+  font-family: Nexa;
+  src: url("../fonts/Nexa/Nexa-Trial-Regular.ttf");
+}
